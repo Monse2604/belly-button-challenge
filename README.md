@@ -51,14 +51,3 @@ The dataset is provided as a JSON file and is loaded dynamically using D3.js:
 ![image](https://github.com/user-attachments/assets/33ac33c2-fb61-409e-9b54-3e66bb2b7efa)
 (file:///C:/Users/monse/OneDrive/Documentos/belly-button-challenge/Starter_Code/index.html).
 
-To deploy the app:
-1. Push all changes to the `main` branch of your GitHub repository.
-2. Go to **Settings > Pages** in your GitHub repository.
-3. Under "Source," select the `main` branch and click **Save**.
-4. Wait a few minutes for the page to be live. GitHub will provide a link.
-
-## Installation
-To run the project locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Monse2604/belly-button-challenge.git
