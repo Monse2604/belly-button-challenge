@@ -48,7 +48,8 @@ The dataset is provided as a JSON file and is loaded dynamically using D3.js:
 3. Explore the top 10 OTUs and the composition of bacterial species for the selected test subject.
 
 ## Deployment
-The dashboard is deployed using GitHub Pages. You can access it [here](file:///C:/Users/monse/OneDrive/Documentos/belly-button-challenge/Starter_Code/index.html).
+![image](https://github.com/user-attachments/assets/33ac33c2-fb61-409e-9b54-3e66bb2b7efa)
+(file:///C:/Users/monse/OneDrive/Documentos/belly-button-challenge/Starter_Code/index.html).
 
 To deploy the app:
 1. Push all changes to the `main` branch of your GitHub repository.
